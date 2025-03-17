@@ -2,7 +2,7 @@
 title: AT Protocol Community Wiki
 description: Homepage of the AT Protocol Community Wiki
 published: true
-date: 2025-03-17T07:05:06.208Z
+date: 2025-03-17T07:13:17.702Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T06:48:14.149Z
@@ -10,11 +10,15 @@ dateCreated: 2025-03-17T06:48:14.149Z
 
 # Welcome to the AT Protocol Community Wiki
 
+![@wiki logo](/assets/atwiki512.png)
+
 This is a quick install of WikiJS to experiment if it's a good fit for community wiki pages.
 
 It may be useful for emerging working groups.
 
 ## AT Protocol Specification
+
+![atprotocol.svg](/assets/atprotocol.svg)
 
 This is not full documentation of the AT Protocol, nor is it the home of the specification.
 
