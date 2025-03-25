@@ -25,6 +25,8 @@ dateCreated: 2025-03-25T19:38:04.512Z
 
 ## On Their Way 
 
+- [cocoon](https://github.com/haileyok/cocoon)
+  > Its not public yet, but will be once I get the mvp done (NB: this is real soon!)
 - [millipds](https://github.com/DavidBuchanan314/millipds)
   > A from-scratch atproto PDS implementation that dreams of becoming "production grade" software (it isn't, yet).
 
