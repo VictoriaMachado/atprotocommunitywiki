@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-25T21:31:48.045Z
+date: 2025-03-25T21:45:19.531Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -30,6 +30,8 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 
 ### Day 1
 
+#### Main Room
+
 | **Time**    | **Presentation** |
 |-------------|------------------|
 | 09:00-09:30 | Doors open|
@@ -52,29 +54,64 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 | 16:45-17:30 | Yearning for the Open Protocols, Ms Boba |
 | 17:15-17:30 | Day 1 Wrap Up |
 
+#### Streamplace Room - Group Discussions
+
+| **Time**        | **Group Discussion** |
+|-------------|------------------------------------------|
+| 14:00-15:00 | AI on ATproto, hosted by Cameron Pfiffer |
+| 15:00-16:30 | Private Data, hosted by Georgia Bullen & Boris Mann |
+| 16:30-17:30 | Lexicon Community, hosted by Nick Gerakines |
+
 
 ### Day 2
 
-| **Time**    | **Presentation**                                                                                                                                                                                                                                                  |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 09:00-09:30 | <br>                    <br>                    Doors Open<br>                    <br>                    <br>                        <br>                    <br>                                                                                                |
-| 09:30-09:45 | Opening Remarks                                                                                                                                                                                                                                                   |
-| 09:45-10:30 | <br>                    <br>                    People In Platforms: A Research Update<br>                    <br>                    <br>                        Erin Kissane<br>                    <br>                                                        |
-| 10:30-10:45 | Coffee Break                                                                                                                                                                                                                                                      |
-| 10:45-11:30 | <br>                    <br>                    Beyond Horseless Carriages: Building Communities for the Decentralized Era<br>                    <br>                    <br>                        Rudy Fraser<br>                    <br>                     |
-| 11:30-12:15 | <br>                    <br>                    The Shape of Apps to Come<br>                    <br>                    <br>                        Devin Ivy<br>                    <br>                                                                        |
-| 12:15-12:30 | <br>                    <br>                    FreeOurFeeds: Developing the AT infra, ecosystem and governance.<br>                    <br>                    <br>                        Marc Faddoul<br>                    <br>                              |
-| 12:30-12:45 | <br>                    <br>                    Bridges &amp; The Last Network Effect<br>                    <br>                    <br>                        Anuj Ahooja<br>                    <br>                                                          |
-| 12:45-14:00 | Lunch                                                                                                                                                                                                                                                             |
-| 14:00-14:45 | <br>                    <br>                    Supporting and growing ATProto development in 2025 and beyond<br>                    <br>                    <br>                        Ændra Rininsland<br>                    <br>                             |
-| 14:45-15:30 | <br>                    <br>                    Scaling atproto down and back up again<br>                    <br>                    <br>                        phil<br>                    <br>                                                                |
-| 15:30-16:00 | Break                                                                                                                                                                                                                                                             |
-| 16:00-16:15 | <br>                    <br>                    Introducing Roost: Robust Open Online Safety Tools.<br>                    <br>                    <br>                        Christopher DiBona<br>                    <br>                                     |
-| 16:15-16:30 | <br>                    <br>                    Tales of Adding oAuth "Login with Bsky" to an OS Comments Tool<br>                    <br>                    <br>                        Jessie Rushing<br>                    <br>                              |
-| 16:30-16:45 | <br>                    <br>                    PMsky: Enabling Peer Moderation on Bluesky<br>                    <br>                    <br>                        Drew McArthur<br>                    <br>                                                   |
-| 16:45-17:00 | <br>                    <br>                    Message Gardening in the Atmosphere<br>                    <br>                    <br>                        Zeu Capua<br>                    <br>                                                              |
-| 17:00-17:15 | <br>                    <br>                    Bringing HOT HOT HOT Backups to Bluesky<br>                    <br>                    <br>                        Travis Vachon<br>                    <br>                                                      |
-| 17:15-17:30 | Day 2 Wrap Up                                                                                                                                                                                                                                                     |
+#### Main Room
+
+| **Time**    | **Presentation**  |
+|-------------|-----------------|
+| 09:00-09:30 | Doors Open |
+| 09:30-09:45 | Opening Remarks |
+| 09:45-10:30 | People In Platforms: A Research Update, Erin Kissane |
+| 10:30-10:45 | Coffee Break |
+| 10:45-11:30 | Beyond Horseless Carriages: Building Communities for the Decentralized Era, Rudy Fraser |
+| 11:30-12:15 | The Shape of Apps to Come, Devin Ivy |
+| 12:15-12:30 | Free Our Feeds: Developing the AT infra, ecosystem and governance, Marc Faddoul |
+| 12:30-12:45 | Bridges &amp; The Last Network Effect, Anuj Ahooja |
+| 12:45-14:00 | Lunch |
+| 14:00-14:45 | Supporting and growing ATProto development in 2025 and beyond, Ændra Rininsland |
+| 14:45-15:30 | Scaling atproto down and back up again, phil |
+| 15:30-16:00 | Break |
+| 16:00-16:15 | Introducing Roost: Robust Open Online Safety Tools, Christopher DiBona |
+| 16:15-16:30 | Tales of Adding oAuth "Login with Bsky" to an OS Comments Tool, Jessie Rushing |
+| 16:30-16:45 | PMsky: Enabling Peer Moderation on Bluesky, Drew McArthur |
+| 16:45-17:00 | Message Gardening in the Atmosphere with Roomy.Chat, Zeu Capua |
+| 17:00-17:15 | Bringing HOT HOT HOT Backups to Bluesky, Travis Vachon |
+| 17:15-17:30 | Day 2 Wrap Up |
+
+#### Streamplace Room - Group Discussions
+
+| **Time**        | **Group Discussion** |
+|-------------|------------------------------------------|
+| 11:30-12:45 | Video on ATProto (Sprk, Skylight, Stream.place) |
+| 14:00-15:00 | ATProto and ActivityPub (Darius) |
+| 15:00-16:00 | Free Our Feeds (Marc) |
+| 16:00-17:30 | IndieSky & more (bnewbold) |
+
+#### Bluesky Room - Group Discussions
+
+| **Time**        | **Group Discussion** |
+|-------------|------------------------------------------|
+| 11:30-12:30 | ATGeo (Nick & Boris) |
+| 14:00-15:00 | Micropayments (Georgia) |
+| 15:00-16:30 | Building new services (Ms. Boba) |
+| 16:30-17:30 | Creating Tech-Co Ops (maxine.science) |
+
+#### Unconf Group Discussions
+
+| **Time**        | **Group Discussion** |
+|-------------|------------------------------------------|
+| 15:00-16:00 | E2EE Messaging, Tessa |
+| 16:00-17:00 | Location Data Privacy, Case |
 
 
 ## Articles
