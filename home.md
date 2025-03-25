@@ -2,7 +2,7 @@
 title: AT Protocol Community Wiki
 description: Homepage of the AT Protocol Community Wiki
 published: true
-date: 2025-03-17T07:13:19.952Z
+date: 2025-03-25T20:14:28.955Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T06:48:14.149Z
@@ -12,19 +12,11 @@ dateCreated: 2025-03-17T06:48:14.149Z
 
 ![@wiki logo](/assets/atwiki512.png)
 
-This is a quick install of WikiJS to experiment if it's a good fit for community wiki pages.
+This is a quick install of [WikiJS](/wikijs) to experiment if it's a good fit for community wiki pages.
 
-It may be useful for emerging working groups.
+It may be useful for emerging working groups, eg [Community Documentation WG](/working-groups/community-documentation/)
 
-## AT Protocol Specification
-
-![atprotocol.svg](/assets/atprotocol.svg)
-
-This is not full documentation of the AT Protocol, nor is it the home of the specification.
-
-The specification currently maintained by Bluesky in their company repo at [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) and published at [atproto.com](https://atproto.com/). It is licensed CC-BY.
-
-Feedback and contributions to the specification are welcome!
+We will be storing transcripts and other artifacts from [ATmosphereConf Seattle 2025 here](/atmosphereconf/seattle2025/)
 
 ## License
 
