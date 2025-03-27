@@ -1,33 +1,38 @@
 ---
-title: Community Documentation Working Group
-description: Discussion around community maintained documentation, including this wiki
+title: Grupo de Trabalho de Documentação Comunitária
+description: Discussões sobre documentação mantida pela comunidade, incluindo esta wiki
 published: true
-date: 2025-03-25T20:13:47.371Z
+date: 2025-03-26T20:13:47.371Z
 tags: wiki, documentation, working group
 editor: markdown
-dateCreated: 2025-03-25T20:13:47.371Z
+dateCreated: 2025-03-26T20:13:47.371Z
 ---
 
-# Community Documentation Working Group
+# Grupo de Trabalho de Documentação Comunitária
 
-Participants
+Participantes
 * Boris [@bmann.ca](https://bsky.app/profile/bmann.ca)
-* add yourself
+* Baldemoto [@baldemo.to](https://bsky.app/profile/baldemo.to)
+* Victoria [@vicwalker.bsky.social](https://bsky.app/profile/vicwalker.bsky.social)
+
+Recursos
+* este site!
+* [#wiki-discussions](https://discord.com/channels/1097580399187738645/1288609400432627816) no [Community Dev Discord](https://discord.atprotocol.dev)
 
 ## Wiki
 
-What will we use this wiki for?
+Para que nós usaremos essa wiki?
 
-## AT Protocol Specification
+## Especificação do AT Protocol
 
-![atprotocol.svg](/assets/atprotocol.svg)
+![AT Protocol logo](/assets/atprotocol.svg)
 
-This is not full documentation of the AT Protocol, nor is it the home of the specification.
+Esta não é a documentação completa do AT Protocol, nem é onde fica suas especificações.
 
-The specification currently maintained by Bluesky in their company repo at [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) and published at [atproto.com](https://atproto.com/). It is licensed CC-BY.
+A especificação atualmente é mantida pelo Bluesky em seu repositório da empresa em [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website) e publicado no [atproto.com](https://atproto.com/). Sua licença é CC-BY.
 
-Feedback and contributions to the specification are welcome!
+Feedback e contribuições para as especificações são bem-vindos!
 
-### Moving ATProto Docs to a Community Space
+### Mover Docs do ATProto para um Espaço Comunitário
 
-For Discussion :P
+Para Discussão :P
