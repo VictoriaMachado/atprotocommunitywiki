@@ -1,6 +1,6 @@
 ---
 title: ATmosphereConf Seattle 2025
-description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
+description: Anotações, palestras e outros artefatos do evento ATmosphereConf Seattle, realizado em março de 2025
 published: true
 date: 2025-03-25T21:45:19.531Z
 tags: atmosphereconf, event
@@ -11,112 +11,116 @@ dateCreated: 2025-03-25T19:45:22.665Z
 # ATmosphereConf Seattle 2025
 
 * https://atprotocol.dev/atmosphereconf/
-* March 22nd & 23rd, 2025
-* OAK Hall at University of Washington
+* 22 e 23 de Março de 2025
+* OAK Hall da Universidade de Washington
 
-Resources
-* [#atmosphereconf](https://bsky.app/search?q=%23atmosphereconf)
-* [ATmosphereConf Participants List](https://bsky.app/profile/atprotocol.dev/lists/3lgepftxhzy2d)
+Recursos
+* [#ATmosphereConf](https://bsky.app/search?q=%23atmosphereconf)
+* [Lista de Participantes da ATmosphereConf](https://bsky.app/profile/atprotocol.dev/lists/3lgepftxhzy2d)
+* [Playlist no YouTube das palestras feitas na Sala Principal](https://www.youtube.com/playlist?list=PLyIg0j_mbb2tVegEMBg5ke2Z-1ALksU-I)
 
 
-We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can leave us long form notes about your conference experience.
+Nós temos uma [página de feedback](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/feedback) onde você pode nos deixar comentários sobre sua experiência na conferência.
 
 ## Agenda
 
 
-> TODO: make sub pages for each talk, embed video, paste in slides / slide link, add transcripts.
+> TODO: criar subpáginas para cada palestra, incorporar o vídeo, colar slides/link dos slides, adicionar transcrições.
 {.is-info}
 
 
-### Day 1
+### Dia 1
 
-#### Main Room
+#### Sala Principal
 
-| **Time**    | **Presentation** |
+| **Horário**    | **Apresentação** |
 |-------------|------------------|
-| 09:00-09:30 | Doors open|
-| 09:30-09:45 | Opening Remarks |
-| 09:45-10:30 | Network Punk: Welcome to the Jungle, Blaine Cook|
-| 10:30-10:45 | Coffee Break |
-| 10:45-11:30 | Where did we come from; where will we go, Paul Frazee |
-| 11:30-12:15 | Smoke Signal, an journey in building open ecosystems for communities, Nick Gerakines |
-| 12:15-12:30 | Skyseed Fund, Peter Wang |
-| 12:30-12:45 | Jay Graber Remarks  |
-| 12:30-14:00 | Lunch |
-| 14:00-14:45 | Atproto Ethos, Daniel Holmgren |
-| 14:45-15:00 | All the protocols, compared, Ryan Barrett |
-| 15:00-15:15 | Fedica's Bluesky analysis and discovery tools, Samir Al-Battran |
-| 15:15-15:30 | DO NOT REPLY TO THIS LIGHTNING TALK, Dan Hon |
-| 15:30-16:00 | Break |
-| 16:00-16:15 | Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights, Michelle Lee |
-| 16:15-16:30 | Comind: The cognitive layer for ATProto, Cameron Pfiffer |
-| 16:30-16:45 | Protocol composition: extending atproto for private data, Rashid Aziz |
-| 16:45-17:30 | Yearning for the Open Protocols, Ms Boba |
-| 17:15-17:30 | Day 1 Wrap Up |
+| 09:00-09:30 | Portas Abertas |
+| 09:30-09:45 | Abertura do evento |
+| 09:45-10:30 | Network Punk: Welcome to the Jungle (Blaine Cook) |
+| 10:30-10:45 | Pausa para Café |
+| 10:45-11:30 | De onde viemos; para onde iremos (Paul Frazee) |
+| 11:30-12:15 | Smoke Signal, uma jornada na construção de ecossistemas abertos para comunidades (Nick Gerakines) |
+| 12:15-12:30 | Fundo Skyseed (Peter Wang) |
+| 12:30-12:45 | Comentários da Jay Graber |
+| 12:30-14:00 | Intervalo de Almoço |
+| 14:00-14:45 | Atproto Ethos (Daniel Holmgren) |
+| 14:45-15:00 | Todos os protocolos, comparados (Ryan Barrett) |
+| 15:00-15:15 | Ferramentas da Fedica para análise e descobertas no Bluesky (Samir Al-Battran) |
+| 15:15-15:30 | NÃO RESPONDA A ESTA PALESTRA (Dan Hon) |
+| 15:30-16:00 | Intervalo |
+| 16:00-16:15 | Além do Skeet: O Potencial do ATProto para Preservação Digital e Direitos Humanos (Michelle Lee) |
+| 16:15-16:30 | [Comind: A camada cognitiva para ATProto, Cameron Pfiffer](/atmosphereconf/seattle2025/comind) |
+| 16:30-16:45 | Composição do protocolo: expandindo o atproto para dados privados (Rashid Aziz) |
+| 16:45-17:30 | Ansiando por Protocolos Abertos (Ms. Boba) |
+| 17:15-17:30 | Encerramento do Dia 1 |
 
-#### Streamplace Room - Group Discussions
+#### Sala Streamplace - Grupos de Discussões
 
-| **Time**        | **Group Discussion** |
+| **Horário**        | **Grupo de Discussão** |
 |-------------|------------------------------------------|
-| 14:00-15:00 | AI on ATproto, hosted by Cameron Pfiffer |
-| 15:00-16:30 | Private Data, hosted by Georgia Bullen & Boris Mann |
-| 16:30-17:30 | Lexicon Community, hosted by Nick Gerakines |
+| 14:00-15:00 | [IA no ATproto (mediado por Cameron Pfiffer)](/atmosphereconf/seattle2025/ai-atproto) |
+| 15:00-16:30 | [Dados Privados (mediado por Georgia Bullen e Boris Mann)](/atmosphereconf/seattle2025/private-data) |
+| 16:30-17:30 | Comunidade de Lexicon (mediado por Nick Gerakines) |
 
 
-### Day 2
+### Dia 2
 
-#### Main Room
+#### Sala Principal
 
-| **Time**    | **Presentation**  |
+| **Horário**    | **Apresentação**  |
 |-------------|-----------------|
-| 09:00-09:30 | Doors Open |
-| 09:30-09:45 | Opening Remarks |
-| 09:45-10:30 | People In Platforms: A Research Update, Erin Kissane |
-| 10:30-10:45 | Coffee Break |
-| 10:45-11:30 | Beyond Horseless Carriages: Building Communities for the Decentralized Era, Rudy Fraser |
-| 11:30-12:15 | The Shape of Apps to Come, Devin Ivy |
-| 12:15-12:30 | Free Our Feeds: Developing the AT infra, ecosystem and governance, Marc Faddoul |
-| 12:30-12:45 | Bridges &amp; The Last Network Effect, Anuj Ahooja |
-| 12:45-14:00 | Lunch |
-| 14:00-14:45 | Supporting and growing ATProto development in 2025 and beyond, Ændra Rininsland |
-| 14:45-15:30 | Scaling atproto down and back up again, phil |
-| 15:30-16:00 | Break |
-| 16:00-16:15 | Introducing Roost: Robust Open Online Safety Tools, Christopher DiBona |
-| 16:15-16:30 | Tales of Adding oAuth "Login with Bsky" to an OS Comments Tool, Jessie Rushing |
-| 16:30-16:45 | PMsky: Enabling Peer Moderation on Bluesky, Drew McArthur |
-| 16:45-17:00 | Message Gardening in the Atmosphere with Roomy.Chat, Zeu Capua |
-| 17:00-17:15 | Bringing HOT HOT HOT Backups to Bluesky, Travis Vachon |
-| 17:15-17:30 | Day 2 Wrap Up |
+| 09:00-09:30 | Portas Abertas |
+| 09:30-09:45 | Abertura do evento |
+| 09:45-10:30 | Pessoas Nas Plataformas: Uma Atualização da Pesquisa (Erin Kissane) |
+| 10:30-10:45 | Pausa para Café |
+| 10:45-11:30 | Além de Carruagens Sem Cavalos: Construindo Comunidades para a Era Descentralizada (Rudy Fraser) |
+| 11:30-12:15 | A Forma dos Aplicativos que Virão (Devin Ivy) |
+| 12:15-12:30 | Free Our Feeds: Desenvolvendo infra, ecossistema e governança no AT (Marc Faddoul) |
+| 12:30-12:45 | Pontes e o Último Efeito de Rede (Anuj Ahooja) |
+| 12:45-14:00 | Intervalo de Almoço |
+| 14:00-14:45 | Apoiando e expandindo o desenvolvimento do ATProto em 2025 e além (Ændra Rininsland) |
+| 14:45-15:30 | Reduzindo a escala do atproto e aumentando de novo (phil) |
+| 15:30-16:00 | Intervalo |
+| 16:00-16:15 | Apresentando Roost: Ferramentas de Segurança Online Robustas e Abertas (Christopher DiBona) |
+| 16:15-16:30 | Contos sobre Adicionando oAuth “Login com Bsky” a uma Ferramenta de Comentários do Sistema Operacional (Jessie Rushing) |
+| 16:30-16:45 | PMsky: Habilitando a Moderação por Pares no Bluesky (Drew McArthur) |
+| 16:45-17:00 | Jardinagem de Mensagens na Atmosfera com Roomy.Chat (Zeu Capua) |
+| 17:00-17:15 | Trazendo Backups QUENTES para o Bluesky (Travis Vachon) |
+| 17:15-17:30 | Encerramento do Dia 2 |
 
-#### Streamplace Room - Group Discussions
+#### Sala Streamplace - Grupos de Discussões
 
-| **Time**        | **Group Discussion** |
+| **Horário**        | **Grupo de Discussão** |
 |-------------|------------------------------------------|
-| 11:30-12:45 | Video on ATProto (Sprk, Skylight, Stream.place) |
-| 14:00-15:00 | ATProto and ActivityPub (Darius) |
+| 11:30-12:45 | Vídeo no ATProto (Sprk, Skylight, Stream.place) |
+| 14:00-15:00 | ATProto e ActivityPub (Darius) |
 | 15:00-16:00 | Free Our Feeds (Marc) |
-| 16:00-17:30 | IndieSky & more (bnewbold) |
+| 16:00-17:30 | IndieSky e mais (bnewbold) |
 
-#### Bluesky Room - Group Discussions
+#### Sala Bluesky - Grupos de Discussões
 
-| **Time**        | **Group Discussion** |
+| **Horário**        | **Grupo de Discussão** |
 |-------------|------------------------------------------|
-| 11:30-12:30 | ATGeo (Nick & Boris) |
-| 14:00-15:00 | Micropayments (Georgia) |
-| 15:00-16:30 | Building new services (Ms. Boba) |
-| 16:30-17:30 | Creating Tech-Co Ops (maxine.science) |
+| 11:30-12:30 | ATGeo (Nick e Boris) |
+| 14:00-15:00 | Micropagamentos (Georgia) |
+| 15:00-16:30 | Construindo novos serviços (Ms. Boba) |
+| 16:30-17:30 | Criando Cooperativas Tecnológicas (maxine.science) |
 
-#### Unconf Group Discussions
+#### Outros Grupos de Discussões fora da Conferência
 
-| **Time**        | **Group Discussion** |
+| **Horário**        | **Grupo de Discussão** |
 |-------------|------------------------------------------|
-| 15:00-16:00 | E2EE Messaging, Tessa |
-| 16:00-17:00 | Location Data Privacy, Case |
+| 15:00-16:00 | Mensagens com Criptografia de Ponta-a-Ponta (Tessa) |
+| 16:00-17:00 | Privacidade de Dados de Localização (Case) |
 
 
-## Articles
+## Artigos
 
-*Long form articles in the press and by individuals*
+*Artigos publicados na imprensa e por indivíduos*
+
+> TODO: traduzir os títulos e citações dos artigos para o português.
+{.is-info}
 
 ### What do a Goose, Community Minded Innovators, and Web 2.0 have in common?
 
