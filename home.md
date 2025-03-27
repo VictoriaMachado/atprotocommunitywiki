@@ -1,23 +1,23 @@
 ---
-title: AT Protocol Community Wiki
-description: Homepage of the AT Protocol Community Wiki
+title: Wiki Comunitária do AT Protocol
+description: Página Inicial da Wiki Comunitária do AT Protocol
 published: true
-date: 2025-03-25T20:14:28.955Z
+date: 2025-03-26T20:14:28.955Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-17T06:48:14.149Z
+dateCreated: 2025-03-26T06:48:14.149Z
 ---
 
-# Welcome to the AT Protocol Community Wiki
+# Bem-vindo à Wiki Comunitária do AT Protocol
 
-![@wiki logo](/assets/atwiki512.png)
+![@logo da wiki](/assets/atwiki512.png)
 
-This is a quick install of [WikiJS](/wikijs) to experiment if it's a good fit for community wiki pages.
+Esta é uma instalação rápida do [WikiJS](/wikijs) para testar se é uma boa opção para páginas wiki da comunidade.
 
-It may be useful for emerging working groups, eg [Community Documentation WG](/working-groups/community-documentation/)
+Pode ser útil para grupos de trabalho emergentes, como por exemplo o [Grupo de Trabalho de Documentação Comunitária](/working-groups/community-documentation/).
 
-We will be storing transcripts and other artifacts from [ATmosphereConf Seattle 2025 here](/atmosphereconf/seattle2025/)
+Armazenaremos transcrições e outros artefatos da [ATmosphereConf Seattle 2025 aqui](/atmosphereconf/seattle2025/).
 
-## License
+## Licença
 
-All content here is [licensed CC0](https://github.com/ATProtocol-Community/atprotocommunitywiki?tab=CC0-1.0-1-ov-file#readme) and contributing [via github](https://github.com/ATProtocol-Community/atprotocommunitywiki) or through the WikiJS web interface, you are adding content under that license.
+Todo conteúdo aqui está sob a [licença CC0](https://github.com/ATProtocol-Community/atprotocommunitywiki?tab=CC0-1.0-1-ov-file#readme) e contribuindo [via github](https://github.com/ATProtocol-Community/atprotocommunitywiki) ou através da interface web do WikiJS, você está adicionando conteúdo sob essa licença.
