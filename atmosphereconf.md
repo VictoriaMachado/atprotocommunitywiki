@@ -28,5 +28,3 @@ Um evento de 2 ou mais dias que acolha projetos do AT Protocol de todos os tipos
 ### Como são chamados os eventos regionais?
 
 Boa pergunta! A ser discutido!
-
-Good question! For discussion!
