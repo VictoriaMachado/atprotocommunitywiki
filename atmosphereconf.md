@@ -1,30 +1,32 @@
 ---
 title: ATmosphereConf
-description: A list of ATmosphere Conferences
+description: Uma lista de Conferências da ATmosfera
 published: true
-date: 2025-03-25T20:09:44.063Z
+date: 2025-03-27T20:09:44.063Z
 tags: atmosphereconf
 editor: markdown
-dateCreated: 2025-03-25T20:09:44.063Z
+dateCreated: 2025-03-27T20:09:44.063Z
 ---
 
 # ATmosphereConf
 
-## Upcoming
+## Próximas
 
-* insert future events here
+* insira eventos futuros aqui
 
-## Past
+## Anteriores
 
-* March 2025 [Seattle](/atmosphereconf/seattle2025/)
+* Março de 2025 [Seattle](/atmosphereconf/seattle2025/)
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
 
-### What gets called an ATmosphereConf?
+### O que é chamado de ATmosphereConf?
 
-A 2+ day event that welcomes AT Protocol projects of all kinds, where people are encouraged and supported in traveling to in person.
+Um evento de 2 ou mais dias que acolha projetos do AT Protocol de todos os tipos, onde as pessoas são incentivadas e apoiadas para viajar pessoalmente.
 
-### What do regional events get called?
+### Como são chamados os eventos regionais?
+
+Boa pergunta! A ser discutido!
 
 Good question! For discussion!
